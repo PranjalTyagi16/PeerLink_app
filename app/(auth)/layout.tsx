@@ -5,7 +5,7 @@ import { Inter } from "next/font/google"
 import '../globals.css';
 //and for SEO
 export const metadata={
-    title:'Threads',
+    title:'PeerLink',
     description:'A Next.js 13 Meta Threads Apllication'
 }
 const inter=Inter({subsets:["latin"]})
